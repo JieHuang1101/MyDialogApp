@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="setting_page_size">
+        <item>Original</item>
+        <item>Latter(216X279 mm)</item>
+        <item>A4(210X297 mm)</item>
+        <item>Legal(216X356 mm)</item>
+        <item>A3(297X420 mm)</item>
+        <item>A5(148X210 mm)</item>
+        <item>Ledger(432X279 mm)</item>
+        <item>Tabloid(279X432 mm)</item>
+        <item>Business Card(85X55 mm)</item>
+    </string-array>
+
+    <string-array name="setting_process">
+        <item>Color</item>
+        <item>Photos</item>
+        <item>B&amp;W</item>
+        <item>Grayscale</item>
+        <item>Last filter</item>
+    </string-array>
+</resources>

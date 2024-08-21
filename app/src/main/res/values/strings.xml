@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyDialogApp</string>
+
+    <string name="renewal_title_text">Sleek Design, Smooth Experience</string>
+
+
+
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="custom_title1">Pause Sync on Current Device?</string>
+    <string name="custom_message1">It won\'t affect the sync between other devices.</string>
+    <string name="custom_title2">Restore Failed</string>
+    <string name="custom_message2">If you have purchased the app but restoration failed, please contact us for assistance.</string>
+    <string name="custom_positive2">I understand</string>
+    <string name="custom_negative2">Contact Support Team</string>
+    <string name="toast_message_line1">sing-line text</string>
+    <string name="toast_message_line2">sing-line text\ntwo-line text</string>
+    <string name="toast_light_message">Suitable for brief tips, minimise the amount of text, if you need to explain too much text you can use rich tips for display.</string>
+    <string name="toast_title">Sync in progress.</string>
+    <string name="toast_message">Please don\'t leave the app while your files are syncing. You will be notified once the sync is complete.</string>
+    <string name="toast_action">Action</string>
+    <string name="renew_app">Renew App</string>
+    <string name="toast_light_weight">Manually Capture</string>
+    <string name="page_size">Page Size</string>
+    <string name="process">Process</string>
+    <string name="theme">Theme</string>
+    <string name="dark_blue">Dark Blue</string>
+    <string name="white">White</string>
+    <string name="move_to_trash">Move to Trash</string>
+</resources>

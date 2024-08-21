@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--basic-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_button_color">#FF999999</color>
+    <color name="red_color">#FFFF3B30</color>
+    <color name="red_press_color">#CCFF3A30</color>
+    <color name="blue_color">#FF0066FF</color>
+    <color name="blue_press_color">#CC0166FF</color>
+
+    <!--theme-->
+    <color name="dialog_background_color">#FFFFFFFF</color>
+    <color name="firstly_text_color">#FF212121</color>
+    <color name="secondly_text_color">#FF000000</color>
+    <color name="negative_btn_border_color">#1F000000</color>
+    <color name="negative_btn_border_press_color">#4D000000</color>
+
+    <color name="toast_background_color">#FF3F3F3F</color>
+
+    <color name="dark_mode_radio_default">#FF000000</color>
+    <color name="thirdly_text_color">#FF999999</color>
+    <color name="item_background_color">#FFF6F6F6</color>
+
+    <color name="icon_color">#FF212121</color>
+    <color name="renew_first_color">#FF3B3B3B</color>
+    <color name="renew_second_color">#FFF2F2F7</color>
+
+</resources>

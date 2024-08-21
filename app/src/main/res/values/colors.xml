@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="toast_action_color">#D3DFF0</color>
+    <color name="whitecornerback">#EFEFEF</color>
+
+
+    <color name="dialog_background_color">#FF082240</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="border_color">#1AFFFFFF</color>
+    <color name="border_press_color">#4DFFFFFF</color>
+    <color name="red_color">#FFFF3B30</color>
+    <color name="red_press_color">#CCFF3A30</color>
+    <color name="blue_color">#FF0066FF</color>
+    <color name="blue_press_color">#CC0166FF</color>
+    <color name="text_button_color">#FF999999</color>
+    <color name="toast_background_color">#FF6B7A8C</color>
+
+    <color name="black">#FF000000</color>
+    <color name="black_21">#FF212121</color>
+    <color name="border_color_white">#1F000000</color>
+    <color name="border_press_color_white">#4D000000</color>
+    <color name="toast_background_color_white">#FF3F3F3F</color>
+</resources>

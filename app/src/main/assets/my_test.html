@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Carson</title>
+    <script>
+         function receiveDataFromAndroid(msg) {
+            console.log(msg);
+         }
+
+         function callAndroid(){
+            // 由于对象映射，所以调用对象等于调用Android映射的对象
+            androidHandler.postMessage("Test Android");
+         }
+      </script>
+</head>
+<body>
+<input type="text" id="input1" />
+<button type="button" id="button1" onclick="callAndroid()">Test Android</button>
+</body>
+</html>

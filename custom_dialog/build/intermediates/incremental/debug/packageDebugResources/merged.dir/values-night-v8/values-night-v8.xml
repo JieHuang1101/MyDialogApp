@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_mode_radio_default">#FF889FBA</color>
+    <color name="dialog_background_color">#082240</color>
+    <color name="firstly_text_color">#FFFFFFFF</color>
+    <color name="icon_color">#FFFFFFFF</color>
+    <color name="item_background_color">#14FFFFFF</color>
+    <color name="negative_btn_border_color">#1AFFFFFF</color>
+    <color name="negative_btn_border_press_color">#4DFFFFFF</color>
+    <color name="renew_first_color">#FFFFFFFF</color>
+    <color name="renew_second_color">#FF304052</color>
+    <color name="secondly_text_color">#FFFFFFFF</color>
+    <color name="thirdly_text_color">#80FFFFFF</color>
+    <color name="toast_background_color">#FF6B7A8C</color>
+</resources>
